@@ -10,7 +10,7 @@ from vega_datasets import data
 st.title("Streamlit App for IS445: ID40477")
 
 # 2. Replace this placeholder with your deployed Streamlit URL
-st.text("The URL for this app is: https://YOUR-APP-NAME.streamlit.app")
+st.text("The URL for this app is: https://is445demo-jbpyssjtfnachpjp8tsaon.streamlit.app/")
 
 # Load Seattle weather dataset
 source = data.seattle_weather()
